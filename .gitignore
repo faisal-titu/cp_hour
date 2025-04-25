@@ -9,3 +9,11 @@
 *.txt
 
 *.vscode
+
+# ignore all the .prob files
+*.prob
+# ignore all the .out files
+*.out
+
+# ignore the .cph files and folder
+*.cph
